@@ -1,3 +1,4 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm KD Saravana</h1>
 # 💫 About Me:
 🔭 I’m currently working on<br>Python mini projects and DSA practice using GitHub<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly Python or AI/ML projects<br><br>🤝 I’m looking for help with<br>Understanding Machine Learning fundamentals and project structure<br><br>🌱 I’m currently learning<br>Python, Data Structures & Algorithms, Git, Docker, Machine Learning basics<br><br>💬 Ask me about<br>Python basics, GitHub workflow, beginner DSA<br><br>⚡ Fun fact<br>I enjoy solving coding problems and improving my skills every day<br>
 
