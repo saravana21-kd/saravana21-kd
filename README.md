@@ -6,18 +6,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm KD Saravana</h1>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhyeGpldHBkcDdwNHpnMDlyMHJ6am5nZm5xcHB0Y21ub2ZicGMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Banner" width="100%" />
 ## 📌 About Me
-- 🔭 I’m currently working on
-- Python mini projects and DSA practice using GitHub
-- 👯 I’m looking to collaborate on
-- Beginner-friendly Python or AI/ML projects
-- 🤝 I’m looking for help with
-- Understanding Machine Learning fundamentals and project structure
-- 🌱 I’m currently learning
-- Python, Data Structures & Algorithms, Git, Docker, Machine Learning basics
-- 💬 Ask me about
-- Python basics, GitHub workflow, beginner DSA
-- ⚡ Fun fact
-- I enjoy solving coding problems and improving my skills every day
+🔭 I’m currently working on<br>Python mini projects and DSA practice using GitHub<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly Python or AI/ML projects<br><br>🤝 I’m looking for help with<br>Understanding Machine Learning fundamentals and project structure<br><br>🌱 I’m currently learning<br>Python, Data Structures & Algorithms, Git, Docker, Machine Learning basics<br><br>💬 Ask me about<br>Python basics, GitHub workflow, beginner DSA<br><br>⚡ Fun fact<br>I enjoy solving coding problems and improving my skills every day<br>
 
 
 ## 🌐 Socials:
