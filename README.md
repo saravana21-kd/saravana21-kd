@@ -33,7 +33,7 @@
 </div>
 
 ### ✍️ Random Dev Quote
-![](![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=material-palenight&animation=grow_out_in&layout=default&font=default&quoteType=random))
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 Top Contributed Repo
 
