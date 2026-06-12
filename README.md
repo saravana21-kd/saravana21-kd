@@ -6,7 +6,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm KD Saravana</h1>
 <img <div style="width: 200px; height: 200px; overflow: hidden; border-radius: 8px;">
   <img 
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhyeGpldHBkcDdwNHpnMDlyMHJ6am5nZm5xcHB0Y21ub2ZicGMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" 
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhyeGpldHBkcDdwNHpnMDlyMHJ6am5nZm5xcHB0Y21ub2ZicGMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" 
     alt="Banner"
     style="width: 100%; height: 100%; object-fit: cover;"
   />
