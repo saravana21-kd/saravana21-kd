@@ -10,7 +10,6 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhyeGpldHBkcDdwNHpnMDlyM
     alt="Banner"
     style="width: 100%; height: 100%; object-fit: cover;"
   />
-</div>
 
 ## 📌 About Me
 🔭 I’m currently working on<br>Python mini projects and DSA practice using GitHub<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly Python or AI/ML projects<br><br>🤝 I’m looking for help with<br>Understanding Machine Learning fundamentals and project structure<br><br>🌱 I’m currently learning<br>Python, Data Structures & Algorithms, Git, Docker, Machine Learning basics<br><br>💬 Ask me about<br>Python basics, GitHub workflow, beginner DSA<br><br>⚡ Fun fact<br>I enjoy solving coding problems and improving my skills every day<br>
