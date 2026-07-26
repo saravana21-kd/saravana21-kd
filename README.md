@@ -1,15 +1,23 @@
+<!-- ================= HERO BANNER ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saravana%20KD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20AI%2FML%20Engineer&descAlignY=62&descSize=16" />
+
+<!-- ================= TYPING HEADER ================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+AI%2FML+Engineer;Python+%7C+NLP+%7C+Machine+Learning;Always+learning%2C+always+building" alt="Typing SVG" />
+</div>
+
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=saravana21-kd">
     <img src="https://komarev.com/ghpvc/?username=saravana21-kd&label=Profile%20views&color=00FFFF&style=flat-square" alt="saravana21-kd's profile views" />
   </a>
-</p>
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm KD Saravana</h1>
+
 
 <div align="center">
   <img 
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjhyeGpldHBkcDdwNHpnMDlyMHJ6am5nZm5xcHB0Y21ub2ZicGMzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif"
     alt="Banner"
-    width="200"
+    width="300"
     height="200"
     style="object-fit: cover; border-radius: 8px;"
   />
@@ -91,4 +99,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
